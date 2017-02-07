@@ -1,0 +1,1 @@
+wordRecEval.py gtruth_IIIT5K.txt IIIT5K_Jederberg_dict.txt
